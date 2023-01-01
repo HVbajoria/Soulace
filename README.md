@@ -54,15 +54,15 @@ Then, follow this step-by-step process to run this application:
 * Create an account in Auth0 and then create a single page web page. 
 * Update the variables with domain and client ID by creating .env file as:
 ```bash
-    auth0_domain="your domain"
-    auth0_clientId="your client ID"
+    REACT_APP_DOMAIN="your domain"
+    REACT_APP_CLIENTID="your client ID"
 ```
 * Receive some Polygon Mumbai Testnet using the link: https://faucet.polygon.technology
 * Open the command prompt by typing cmd in the search option.
 * Travel to the directory where you wish to store the project files using the cd command.
 * Clone the repository in your local system.
 ```bash
-git clone https://github.com/HVbajoria/Soulace
+git clone https://github.com/HVbajoria/Soulace.git
 ```
 * Go to your project directory where all the files are present.
 ```bash
