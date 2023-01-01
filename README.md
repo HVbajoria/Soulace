@@ -4,7 +4,7 @@
   </p>
 </br>
 
-## Website Link: https://soulace.netlify.app/
+## Website Link: 🌐 https://soulace.netlify.app/
 
 ## Details : 
 **Name** : Harshavardhan Bajoria</br>
@@ -36,7 +36,7 @@ Expressing your thoughts, and emotions has never been more important than now. I
 * No extra charges, commissions are taken from the creators to publish their content except a small gas fee. 
 * The application is fast, simple, and easy to use which will encourage everyone to explore the creators within them and share their creations with the world. 
 
-## Tech Stack:
+## Tech Stack: 🧑‍💻
 The following tech stacks have been used to create the application and deploy it.  
 * **React JS** to build the front end of the application that supports most of the platform.
 * **Polygon blockchain (Mumbai)** to deploy the backend of the application using smart contracts.
@@ -83,7 +83,7 @@ yarn start
 * Enjoy the app!
 #### When you click on Enter Now you need to connect your MetaMask wallet to continue. 
 
-## Demo Video Link: 
+## Demo Video Link: https://youtu.be/hsSlpeGa4o4
 
 ## Website Link: https://soulace.netlify.app/
 
