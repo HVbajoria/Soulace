@@ -4,7 +4,7 @@
   </p>
 </br>
 
-## Website Link: 
+## Website Link: https://soulace.netlify.app/
 
 ## Details : 
 **Name** : Harshavardhan Bajoria</br>
@@ -85,7 +85,7 @@ yarn start
 
 ## Demo Video Link: 
 
-## Website Link: 
+## Website Link: https://soulace.netlify.app/
 
 ## Methodology :
 The methodology for the seamless execution of the whole application is given below. It describes how the application works behind the application to securely fetch, publish content and directly interact with the user without a central authority or third party. 
