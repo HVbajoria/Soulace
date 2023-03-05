@@ -83,7 +83,7 @@ yarn start
 * Enjoy the app!
 #### When you click on Enter Now you need to connect your MetaMask wallet to continue. 
 
-## Demo Video Link: https://youtu.be/hsSlpeGa4o4
+## Demo Video Link: https://youtu.be/9kQUZoXLo8U
 
 ## Website Link: https://soulace.netlify.app/
 
